@@ -1,0 +1,19 @@
+{
+  "name": "darkskyforecastupdate",
+  "version": "1.0.0",
+  "description": "AWS Lambda fn to get forecasts from dark sky for climbing locations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dark-sky",
+    "weather",
+    "forecast"
+  ],
+  "author": "Dan Souther",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
